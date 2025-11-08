@@ -1,0 +1,5 @@
+com\example\ecommerce\cart\port\out\CartRepository.class
+com\example\ecommerce\cart\usecase\AddItemToCartService.class
+com\example\ecommerce\cart\usecase\AddItemToCartUseCase.class
+com\example\ecommerce\cart\domain\CartItem.class
+com\example\ecommerce\cart\domain\Cart.class
