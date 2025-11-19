@@ -1,4 +1,0 @@
-com\example\ecommerce\product\domain\Product.class
-com\example\ecommerce\product\port\out\ProductRepository.class
-com\example\ecommerce\product\usecase\ListProductsService.class
-com\example\ecommerce\product\usecase\ListProductsUseCase.class

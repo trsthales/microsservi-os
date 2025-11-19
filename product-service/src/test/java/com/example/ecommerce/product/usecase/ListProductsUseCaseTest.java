@@ -58,5 +58,18 @@ class ListProductsUseCaseTest {
 
         @Override
         public List<Product> findAll() { return Collections.unmodifiableList(data); }
+
+        @Override
+        public Optional<Product> findById(UUID id) {
+            return data.stream().filter(p -> p.id().equals(id)).findFirst();
+        }
+
+        @Override
+        public Product save(Product product) {
+            // replace if exists or add
+            data.removeIf(p -> p.id().equals(product.id()));
+            data.add(product);
+            return product;
+        }
     }
 }

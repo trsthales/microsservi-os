@@ -2,12 +2,14 @@ package com.example.ecommerce.product.usecase;
 
 import com.example.ecommerce.product.domain.Product;
 import com.example.ecommerce.product.port.out.ProductRepository;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 /**
- * Implementação INCOMPLETA para manter TDD: jogamos UnsupportedOperation.
+ * Implementação do caso de uso para listar produtos.
  */
+@Service
 public class ListProductsService implements ListProductsUseCase {
 
     private final ProductRepository repository;
