@@ -1,0 +1,4 @@
+com\example\ecommerce\user\usecase\UserRegistrationService.class
+com\example\ecommerce\user\domain\User.class
+com\example\ecommerce\user\port\out\UserRepository.class
+com\example\ecommerce\user\usecase\UserRegistrationUseCase.class

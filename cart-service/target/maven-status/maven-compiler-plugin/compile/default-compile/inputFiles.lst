@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\adapter\out\inmemory\InMemoryCartRepository.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\CartServiceApplication.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\domain\Cart.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\domain\CartItem.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\port\out\CartRepository.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\usecase\AddItemToCartService.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\usecase\AddItemToCartUseCase.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\web\CartController.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\web\dto\AddItemRequest.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\web\dto\CartItemResponse.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\web\dto\CartResponse.java
+C:\Users\User\Downloads\Fazendo\microsserviços\cart-service\src\main\java\com\example\ecommerce\cart\web\RestExceptionHandler.java

@@ -1,0 +1,12 @@
+com\example\ecommerce\cart\web\CartController.class
+com\example\ecommerce\cart\port\out\CartRepository.class
+com\example\ecommerce\cart\web\RestExceptionHandler.class
+com\example\ecommerce\cart\CartServiceApplication.class
+com\example\ecommerce\cart\domain\Cart.class
+com\example\ecommerce\cart\web\dto\CartResponse.class
+com\example\ecommerce\cart\adapter\out\inmemory\InMemoryCartRepository.class
+com\example\ecommerce\cart\usecase\AddItemToCartService.class
+com\example\ecommerce\cart\usecase\AddItemToCartUseCase.class
+com\example\ecommerce\cart\domain\CartItem.class
+com\example\ecommerce\cart\web\dto\CartItemResponse.class
+com\example\ecommerce\cart\web\dto\AddItemRequest.class

@@ -1,0 +1,10 @@
+com\example\ecommerce\product\usecase\GetProductUseCase.class
+com\example\ecommerce\product\web\dto\ProductResponseDto.class
+com\example\ecommerce\product\ProductServiceApplication.class
+com\example\ecommerce\product\adapter\inmemory\InMemoryProductRepository.class
+com\example\ecommerce\product\domain\Product.class
+com\example\ecommerce\product\port\out\ProductRepository.class
+com\example\ecommerce\product\usecase\GetProductService.class
+com\example\ecommerce\product\web\ProductController.class
+com\example\ecommerce\product\usecase\ListProductsService.class
+com\example\ecommerce\product\usecase\ListProductsUseCase.class

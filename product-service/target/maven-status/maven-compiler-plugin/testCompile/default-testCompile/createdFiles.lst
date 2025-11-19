@@ -1,0 +1,3 @@
+com\example\ecommerce\product\usecase\ListProductsUseCaseTest$InMemoryProductRepo.class
+com\example\ecommerce\product\usecase\ListProductsUseCaseTest.class
+com\example\ecommerce\product\web\ProductControllerTest.class
